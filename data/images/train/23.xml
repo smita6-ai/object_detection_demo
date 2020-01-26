@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images2</folder>
+	<filename>23.png</filename>
+	<path>/Users/bsmita123/TensorFlow/models/images/images2/23.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>playscape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>221</ymin>
+			<xmax>928</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

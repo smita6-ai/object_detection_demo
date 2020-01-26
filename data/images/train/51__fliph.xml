@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>51__fliph.png</filename>
+	<path>/Users/bsmita123/image_augmentor/images/51__fliph.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1278</width>
+		<height>870</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>playscape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>472</ymin>
+			<xmax>772</xmax>
+			<ymax>788</ymax>
+		</bndbox>
+	</object>
+</annotation>

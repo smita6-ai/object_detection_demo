@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images2</folder>
+	<filename>3.png</filename>
+	<path>/Users/bsmita123/TensorFlow/models/images/images2/3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>291</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>291</ymin>
+			<xmax>105</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>
