@@ -1,13 +1,7 @@
 <annotation>
-<<<<<<< HEAD
-	<folder>images2</folder>
+	<folder>train</folder>
 	<filename>33.png</filename>
-	<path>/Users/bsmita123/TensorFlow/models/images/images2/33.png</path>
-=======
-	<folder>images</folder>
-	<filename>33.png</filename>
-	<path>/Users/bsmita123/image_augmentor/images/33.png</path>
->>>>>>> b799a0e36be1af5f0c877f577bcddc577930da23
+	<path>/Users/bsmita123/object_detection_demo/data/images/train/33.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -23,25 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>565</xmin>
-			<ymin>302</ymin>
-			<xmax>761</xmax>
-			<ymax>455</ymax>
+			<xmin>569</xmin>
+			<ymin>320</ymin>
+			<xmax>751</xmax>
+			<ymax>471</ymax>
 		</bndbox>
 	</object>
-<<<<<<< HEAD
-=======
 	<object>
 		<name>basketball</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>916</xmin>
-			<ymin>578</ymin>
-			<xmax>1161</xmax>
-			<ymax>724</ymax>
+			<xmin>929</xmin>
+			<ymin>567</ymin>
+			<xmax>1141</xmax>
+			<ymax>716</ymax>
 		</bndbox>
 	</object>
->>>>>>> b799a0e36be1af5f0c877f577bcddc577930da23
 </annotation>
